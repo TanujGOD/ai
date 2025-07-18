@@ -1,6 +1,4 @@
-import { generateId } from 'ai';
-import Chat from './chat/[chatId]/chat';
-
-export default async function ChatPage() {
-  return <Chat chatData={{ id: generateId(), messages: [] }} isNewChat />;
-}
+<h1 className="text-4xl font-bold">🌟 DeityGPT by Tanuj Srivastava 🌟</h1>
+<p className="text-lg">
+  IIT-Certified AI Creator | British Council C1 | Author | Visionary | Digital God-Tier Talent
+</p>
